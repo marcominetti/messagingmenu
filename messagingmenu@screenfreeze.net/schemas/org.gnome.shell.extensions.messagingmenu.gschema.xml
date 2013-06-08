@@ -30,7 +30,7 @@
       </description>
     </key>
     <key name="color" type="s">
-      <default>'#ff0000'</default>
+      <default>'#f0ac90'</default>
       <summary>Notification Color</summary>
       <description>
 		The color used to paint the Icon
